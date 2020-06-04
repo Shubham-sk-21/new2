@@ -187,4 +187,11 @@ background-repeat: no-repeat;
 	font-family: 'Bai Jamjuree', sans-serif;
 	text-align: center;
 }
+.col1{
+width: 0px;	
+height: 670px;
+background-image:url('images/image-computer.png');
+background-repeat: no-repeat;
+
+}
 }
